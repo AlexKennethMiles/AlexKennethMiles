@@ -1,9 +1,17 @@
-### Hi there :wave:, I'm Alexey
+### Hi :wave:, I'm Alexey
 ## I'm Java Developer
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexKennethMiles&show_icons=true&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlexKennethMiles&theme=dark)](https://git.io/streak-stats)
 
 ## Languages and Tools:
-![](https://img.shields.io/badge/Java-%3E%3D8-orange) ![](https://img.shields.io/badge/maven-3-red) ![](https://img.shields.io/badge/PostgreSQL-%3E%3D9-blue) ![](https://img.shields.io/badge/Travis-CI-green) ![](https://img.shields.io/badge/JUnit-5-red)
+<a href="#"><img alt="Java" src="https://custom-icon-badges.herokuapp.com/badge/Java_17-ff8800.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" width="63"></a>
+<a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" width="93"></a>
+<a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" width="53"></a>
+<a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit_5-25A162.svg?logo=check-circle&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-F05033.svg?logo=git&logoColor=white" width="45"></a>
+<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?logo=IntelliJIDEA&logoColor=FFFFFF"></a>
+<a href="#"><img alt="Apache Maven" src="https://img.shields.io/badge/Maven-C71A36.svg?logo=Apache Maven&logoColor=white"></a>
+<a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 
 [![wakatime](https://wakatime.com/badge/user/5ab84611-6060-49b3-898f-091400544a87.svg)](https://wakatime.com/@5ab84611-6060-49b3-898f-091400544a87)
 
